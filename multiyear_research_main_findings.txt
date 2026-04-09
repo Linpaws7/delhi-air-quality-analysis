@@ -1,0 +1,7 @@
+Main research finding
+
+The multi-year analysis produced a stronger forecasting result than the single-year pilot study. In the 2023–2025 dataset, Linear Regression with temporal and meteorological features outperformed the baseline persistence model on RMSE and R², indicating that a longer time horizon improved the model’s ability to learn recurring structure in Delhi’s PM2.5 dynamics.
+
+However, adding simple episode proxy variables such as winter, post-monsoon, monsoon, and weekend indicators did not improve performance further. This suggests that while seasonal and episodic effects are real, the specific proxy design used here did not add enough predictive information beyond the existing temporal and meteorological variables.
+
+Overall, the findings indicate that historical depth matters, temporal persistence remains highly important, and relatively simple statistical models can perform strongly in next-day PM2.5 forecasting when trained on a richer multi-year dataset.

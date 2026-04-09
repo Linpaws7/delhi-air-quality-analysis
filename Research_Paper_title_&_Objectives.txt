@@ -1,0 +1,5 @@
+Title:
+Forecasting Next-Day PM2.5 in Delhi Using Air Quality and Meteorological Variables: A Statistical and Machine Learning Study
+
+Research objective:
+The objective of this study is to forecast next-day PM2.5 concentration in Delhi using daily air-quality and meteorological variables, and to compare the performance of baseline, linear, and tree-based models while interpreting the practical value of pollution-risk categorisation.

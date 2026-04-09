@@ -1,0 +1,7 @@
+Real-world relevance
+
+This study has practical relevance for urban environmental monitoring and public-health preparedness in Delhi. A next-day PM2.5 forecasting system can support early-warning communication, help identify periods of elevated pollution risk, and inform short-term mitigation planning.
+
+The results are also relevant for policy interpretation. The strong seasonal pattern and the importance of meteorological conditions suggest that pollution-control efforts should be evaluated in the context of both recurring seasonal episodes and year-to-year variability.
+
+From a data-science perspective, the study shows that relatively simple and interpretable models can provide meaningful forecasting performance when supported by multi-year environmental data.

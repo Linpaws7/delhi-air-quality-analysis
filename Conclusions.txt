@@ -1,0 +1,7 @@
+Conclusion
+
+This research developed a multi-year PM2.5 forecasting framework for Delhi using open-source air-quality and meteorological data from 2023 to 2025. The analysis showed strong recurring seasonal structure, with higher pollution levels concentrated in winter and late-year periods, and lower levels during mid-year months.
+
+In model comparison, the multi-year Linear Regression model outperformed the baseline persistence model on RMSE and R², showing that a longer historical window improved predictive performance. At the same time, the results also showed that simple interpretable models can remain highly effective in environmental forecasting when combined with meaningful temporal and meteorological features.
+
+Overall, the study provides a practical and research-relevant foundation for next-day PM2.5 forecasting in Delhi. It also establishes a clear path for future extension through richer event annotations, advanced time-series models, and station-level spatial analysis.

@@ -1,0 +1,11 @@
+Methodology summary:
+
+1. Collected hourly air-quality data for Delhi from Open-Meteo Air Quality API for 2025.
+2. Collected daily weather data for Delhi from NASA POWER for 2025.
+3. Aggregated hourly air-quality data to daily averages.
+4. Merged daily pollutant and meteorological datasets by date.
+5. Created next-day PM2.5 as the prediction target.
+6. Built a baseline persistence model, Linear Regression models, and Random Forest models.
+7. Evaluated models using MAE, RMSE, and R2.
+8. Created pollution-risk categories from next-day PM2.5.
+9. Generated summary tables, correlation outputs, and time-series visualisation.

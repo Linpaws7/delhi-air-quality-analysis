@@ -1,0 +1,13 @@
+Results summary:
+
+1. Final modeling dataset size: 364 rows and 12 columns.
+2. Baseline persistence model achieved the best performance.
+3. Baseline metrics:
+   - MAE: 15.52478250915751
+   - RMSE: 22.963507026633046
+   - R2: 0.6284562026479149
+4. Linear Regression with lag features was the best non-baseline model.
+5. Random Forest models performed worse than both the baseline and linear models.
+6. Current-day PM2.5 showed the strongest positive correlation with next-day PM2.5.
+7. Sulphur dioxide and nitrogen dioxide also showed notable positive correlations with next-day PM2.5.
+8. Pollution-risk categories were successfully created: Low, Moderate, High, and Very High.

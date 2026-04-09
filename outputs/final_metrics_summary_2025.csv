@@ -1,0 +1,6 @@
+Metric,Value
+Best Model,Baseline Persistence
+Baseline MAE,15.52478250915751
+Baseline RMSE,22.963507026633046
+Baseline R2,0.6284562026479149
+Rows in final model data,364

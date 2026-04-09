@@ -1,0 +1,20 @@
+Delhi Air Quality Project
+│
+├── README.md
+├── project_structure.txt
+├── data
+│   ├── raw
+│   │   ├── delhi_air_quality_hourly_2025.csv
+│   │   └── delhi_weather_daily_2025.csv
+│   └── processed
+│       ├── delhi_pm25_model_data_2025.csv
+│       └── delhi_pm25_model_data_with_risk_2025.csv
+├── notebooks
+│   └── our main notebook file
+├── outputs
+│   ├── model_comparison_2025.csv
+│   ├── risk_summary_2025.csv
+│   ├── delhi_daily_pm25_2025.png
+│   ├── correlation_matrix_2025.csv
+│   └── final_metrics_summary_2025.csv
+└── src

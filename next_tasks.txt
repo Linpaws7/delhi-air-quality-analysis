@@ -1,0 +1,10 @@
+1. Clean the notebook and make section headings consistent
+2. Rename the notebook clearly
+3. Add a short methodology section to README
+4. Add key model results to README
+5. Create a GitHub-ready repository structure
+6. Write the full research paper draft
+7. Add more time-series features
+8. Test ARIMA / SARIMAX style models
+9. Build a simple risk alert dashboard
+10. Prepare final portfolio description
